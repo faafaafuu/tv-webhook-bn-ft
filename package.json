@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "github.com/faafaafuu",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
