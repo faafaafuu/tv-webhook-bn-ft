@@ -3,12 +3,12 @@ node_modules
 npm-debug.log
 
 # Local development
-*.env
+# *.env
 *.dev
 .DS_Store
 
 # Binance Keys
-.env
+# .env
 
 # Personal
 test.js
